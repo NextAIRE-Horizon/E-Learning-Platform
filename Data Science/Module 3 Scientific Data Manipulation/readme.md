@@ -38,6 +38,23 @@ The module is divided into 5 interactive Jupyter notebooks that can be run local
 - Topics: Datetime conversion, time-based indexing, sorting by time, filtering by time, joining sources, resampling, alignment of different time series, interpolation after alignment.
 - Core Theme: Aligning and manipulating environmental time series.
 
+### 6. Workshop recordings
+#### 6.1. Scientific Data Manipulation (Part 1)
+Watch the recording here:
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://www.youtube.com/watch?v=jKiBYTwLdqQ)
+
+#### 6.2. Scientific Data Manipulation (Part 2)
+Watch the recording here:
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://www.youtube.com/watch?v=GLXbRR3uhJs)
+
+#### 6.3. Scientific Data Manipulation (Part 3)
+Watch the recording here:
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://www.youtube.com/watch?v=nd-4XKt6Xis)
+
+#### 6.4. Scientific Data Manipulation (Part 4)
+Watch the recording here:
+[![Watch Video](https://img.shields.io/badge/Play_Video-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://www.youtube.com/watch?v=olSAIWd6K5c)
+
 * * *
 
 ## Suggested Teaching Plan
