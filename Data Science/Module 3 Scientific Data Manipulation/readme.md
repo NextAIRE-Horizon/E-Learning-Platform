@@ -57,21 +57,6 @@ Watch the recording here:
 
 * * *
 
-## Suggested Teaching Plan
-
-This module is intended for **2 sessions of approximately 2 hours each**.
-
-### Session 1
-- Notebook 1: NumPy and Vectorization
-- Notebook 2: Pandas DataFrames
-
-### Session 2
-- Notebook 3: Handling Missing Data
-- Notebook 4: Outlier Detection
-- Notebook 5: Time-based Indexing
-
-This structure gives enough material for approximately four hours of teaching with explanation, live coding, and guided learner practice.
-
 ## How to use these notebooks
 
 1. Upload the files to the appropriate GitHub folder of the E-Learning Platform repository.
