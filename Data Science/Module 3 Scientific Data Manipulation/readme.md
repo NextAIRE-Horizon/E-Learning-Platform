@@ -9,26 +9,31 @@ The module is divided into 5 interactive Jupyter notebooks that can be run local
 ## Notebook Overview
 
 ### 1. [NumPy and Vectorization](./1%20NumPy%20and%20Vectorization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NextAIRE-Horizon/E-Learning-Platform/blob/main/Data%20Science/Module%203%20Scientific%20Data%20Manipulation/1%20NumPy%20and%20Vectorization.ipynb)
 
 - Topics: NumPy arrays, Python lists vs arrays, vectorized operations, boolean masking, summary statistics, working with `NaN`, simple 2D arrays.
 - Core Theme: Efficient numerical computation on scientific measurements.
 
 ### 2. [Pandas DataFrames](./2%20Pandas%20DataFrames.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NextAIRE-Horizon/E-Learning-Platform/blob/main/Data%20Science/Module%203%20Scientific%20Data%20Manipulation/2%20Pandas%20DataFrames.ipynb)
 
 - Topics: Creating DataFrames, inspecting tables, loading CSV-style data, selecting rows and columns, filtering, sorting, adding new columns, renaming, grouping and aggregation.
 - Core Theme: Working with structured tabular data.
 
 ### 3. [Handling Missing Data](./3%20Handling%20Missing%20Data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NextAIRE-Horizon/E-Learning-Platform/blob/main/Data%20Science/Module%203%20Scientific%20Data%20Manipulation/3%20Handling%20Missing%20Data.ipynb)
 
 - Topics: Detecting missing values, quantifying missingness, inspecting incomplete rows, dropping incomplete rows or columns, filling values, forward/backward fill, interpolation, choosing a strategy.
 - Core Theme: Cleaning incomplete real-world datasets.
 
 ### 4. [Outlier Detection](./4%20Outlier%20Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NextAIRE-Horizon/E-Learning-Platform/blob/main/Data%20Science/Module%203%20Scientific%20Data%20Manipulation/4%20Outlier%20Detection.ipynb)
 
 - Topics: Suspicious values, descriptive inspection, domain knowledge, z-score style logic, IQR-based detection, flagging, simple cleaning strategies.
 - Core Theme: Identifying and managing unusual observations.
 
 ### 5. [Time-based Indexing](./5%20Time-based%20Indexing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NextAIRE-Horizon/E-Learning-Platform/blob/main/Data%20Science/Module%203%20Scientific%20Data%20Manipulation/5%20Time-based%20Indexing.ipynb)
 
 - Topics: Datetime conversion, time-based indexing, sorting by time, filtering by time, joining sources, resampling, alignment of different time series, interpolation after alignment.
 - Core Theme: Aligning and manipulating environmental time series.
